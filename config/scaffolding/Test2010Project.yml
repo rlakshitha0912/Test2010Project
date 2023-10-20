@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: Test2010Project
+  gitServerName: testProject
+  gitUrl: https://github.com/rlakshitha0912/Test2010Project
+  gitUsername: rlakshitha0912
+  gitBranch: main
